@@ -3,7 +3,7 @@ module.exports = {
 	 * Prefix mặc định của bot
 	 * Default bot prefix
 	 */
-	prefix: "z!",
+	prefix: "l!",
 
 	/**
 	 * Ký tự tiền tố cho các tùy chọn lệnh
@@ -63,25 +63,25 @@ module.exports = {
 		 * ID của channel bot gửi lỗi
 		 * Bot's error log channel ID
 		 */
-		ErrorLog: "",
+		ErrorLog: "1184149362222313522",
 
 		/**
 		 * ID của channel feedback
 		 * Bot's feedback channel ID
 		 */
-		FeedBack: "",
+		FeedBack: "1184149362222313522",
 
 		/**
 		 * ID của server hỗ trợ
 		 * Support server ID
 		 */
-		SupportServer: "https://discord.gg/bkBejRNcR3",
+		SupportServer: "https://discord.gg/jwFANdDN3",
 
 		/**
 		 * Link mời bot
 		 * Bot's invite link
 		 */
-		InviteBot: "https://discord.com/oauth2/authorize?client_id=1501197759754272928",
+		InviteBot: "https://discord.com/oauth2/authorize?client_id=475290338093694976",
 
 		/**
 		 * Link ảnh banner
@@ -179,7 +179,7 @@ module.exports = {
 	 * Danh sách ID của chủ sở hữu bot (người dùng có thể thực hiện lệnh owner) ["ID admin", "ID admin", ...]
 	 * List of bot owner IDs (users who can execute owner commands) ["admin ID", "admin ID", ...]
 	 */
-	OwnerID: [],
+	OwnerID: [467705555465535488],
 
 	/**
 	 * Danh sách ID của các server dành cho nhà phát triển ["ID server", "ID server", ...] or []
